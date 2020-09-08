@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Disco Diva';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Disco Diva'), url('DiscoDiva.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Disco Diva';
+  font-weight: 700;
+  color: #ff80cc;
+}
