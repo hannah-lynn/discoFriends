@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/discoFriends/static/css/main.b259951d.chunk.css",
+    "main.js": "/discoFriends/static/js/main.9e6f7aee.chunk.js",
+    "main.js.map": "/discoFriends/static/js/main.9e6f7aee.chunk.js.map",
+    "runtime-main.js": "/discoFriends/static/js/runtime-main.9f65707c.js",
+    "runtime-main.js.map": "/discoFriends/static/js/runtime-main.9f65707c.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/discoFriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.115d98b8.chunk.js": "/discoFriends/static/js/2.115d98b8.chunk.js",
+    "static/js/2.115d98b8.chunk.js.map": "/discoFriends/static/js/2.115d98b8.chunk.js.map",
+    "index.html": "/discoFriends/index.html",
+    "precache-manifest.c1b3bfc2adb4997a42aa0d8ba9a8759d.js": "/discoFriends/precache-manifest.c1b3bfc2adb4997a42aa0d8ba9a8759d.js",
+    "service-worker.js": "/discoFriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/discoFriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.b259951d.chunk.css.map": "/discoFriends/static/css/main.b259951d.chunk.css.map",
+    "static/js/2.115d98b8.chunk.js.LICENSE.txt": "/discoFriends/static/js/2.115d98b8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/discoFriends/static/media/DiscoDiva.ffbb5d93.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f65707c.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.115d98b8.chunk.js",
+    "static/css/main.b259951d.chunk.css",
+    "static/js/main.9e6f7aee.chunk.js"
+  ]
+}
